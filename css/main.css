@@ -1,1 +1,37 @@
 /* GLOBAL */
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+.wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+section {
+    /* background: #7A44AF;
+    color: white;
+    border-radius: 1em;
+    padding: 1em; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
+
+#home {
+    text-align: center;
+}
+#home h1 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #7A44AF;
+}
+
