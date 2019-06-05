@@ -22,12 +22,16 @@ section {
     transform: translate(-50%, -50%); 
 }
 
+.title {
+  padding: 1rem;
+}
+
 #home h1 {
     font-size: 2rem;
     text-transform: uppercase;
     color: #7A44AF;
 }
 
-.title {
-    padding: 1rem;
+#social img {
+  padding: .5rem;
 }
