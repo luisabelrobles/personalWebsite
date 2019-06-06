@@ -56,4 +56,9 @@ a:hover {
 
 #social img {
   padding: .5rem;
+  width: 3rem;
+}
+
+#contact img {
+  width: 3rem;
 }
