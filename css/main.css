@@ -28,6 +28,12 @@ section {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.title p {
+  text-transform: uppercase;
+  color: gray;
+  font-size: .8rem;
+}
+
 a {
   color: #7A44AF;
   text-decoration: none;
