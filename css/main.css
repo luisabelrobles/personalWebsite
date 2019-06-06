@@ -54,11 +54,8 @@ a:hover {
     letter-spacing: .2rem;
 }
 
-#social img {
+#social a {
   padding: .5rem;
-  width: 3rem;
+  margin: .5rem;
 }
 
-#contact img {
-  width: 3rem;
-}
